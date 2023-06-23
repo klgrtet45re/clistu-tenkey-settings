@@ -1,9 +1,24 @@
 # clistu-tenkey-settings
-クリスタ用テンキー割り当て案
+クリスタ向けのテンキーのショートカット割り当て案です。
 
-#使用テンキー:
-BSTK11BK/BUFFALO
-https://www.buffalo.jp/product/detail/bstk11bk.html
+# 使用テンキー:
+BSTK11BK/BUFFALO  
+https://www.buffalo.jp/product/detail/bstk11bk.html  
+
+テンキーによって微妙に使えるキーが異なります(TabキーとかBackSpaceとか)。
+お使いのキーによって調整する必要があります。
+
+# 割り当て
+<img src="https://github.com/klgrtet45re/clistu-tenkey-settings/assets/134019691/c6980a72-a917-462c-bd41-33ce9f43e889" width="30%"> 
+
+
+・クリスタ側でショートカットキーを設定する必要のあるものがあります。  
+・青字はファンクションキーを押したときの割り当てでEnterキーがファンクションキーです。
+・カラーサークル、カラーセットはポップアップのショートカットです。  
+・ペンに人差し指があるのがホームポジションとここでは想定しているので、「とりけし」はそのすぐ隣にあるほうがやりやすいです。  
+
+上記はあくまで今のところ自分がやりやすい設定です。人によって違うものになると思います。   
+使用できない、すると不都合が出るキーは使用していません。
 
 
 

@@ -6,7 +6,7 @@ BSTK11BK/BUFFALO
 https://www.buffalo.jp/product/detail/bstk11bk.html  
 
 テンキーによって微妙に使えるキーが異なります(TabキーとかBackSpaceとか)。
-お使いのキーによって調整する必要があります。
+お使いのテンキーによって調整する必要があります。
 
 # 割り当て
 <img src="https://github.com/klgrtet45re/clistu-tenkey-settings/assets/134019691/c6980a72-a917-462c-bd41-33ce9f43e889" width="30%"> 

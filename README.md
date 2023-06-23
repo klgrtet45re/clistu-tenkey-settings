@@ -1,5 +1,5 @@
 # clistu-tenkey-settings
-クリスタ向けのテンキーのショートカット割り当て案です。
+クリスタ向けのテンキーのショートカット割り当て案です。autohotkeyを使用しています。
 
 # 使用テンキー:
 BSTK11BK/BUFFALO  
